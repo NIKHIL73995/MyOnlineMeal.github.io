@@ -8,13 +8,14 @@
 /*          HOME           */
 #home{
 
-   
+   height: 460px;
 }
 #home::before{
     
 }
 
 #home p{
+    width:500px;
    
 }
 
@@ -28,10 +29,15 @@
 }
 /*        CLIENTS SECTION  */
 #clients{
-    
+    width: 500px;
 }
 #clients img{
+    height:95px;
+    
 
+}
+.class-item{
+    padding:0px;
 }
 
 /*         CONTACTUS       */
